@@ -51,8 +51,6 @@ Evolution of the original KipuBank contract with the following improvements:
 KipuBankV2/
 ├── src/
 │   └── KipuBankV2.sol          # Main contract
-├── test/
-│   └── KipuBankV2.t.sol        # Unit tests
 └── README.md
 ```
 
